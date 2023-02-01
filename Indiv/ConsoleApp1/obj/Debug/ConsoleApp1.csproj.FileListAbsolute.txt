@@ -1,0 +1,7 @@
+D:\Algoritm\Практика 10\Indiv\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Algoritm\Практика 10\Indiv\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Algoritm\Практика 10\Indiv\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Algoritm\Практика 10\Indiv\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Algoritm\Практика 10\Indiv\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Algoritm\Практика 10\Indiv\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Algoritm\Практика 10\Indiv\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
